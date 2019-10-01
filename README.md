@@ -10,5 +10,5 @@ Hola que haces
 
 
 Materiales:
--led
--resitor
+- led
+- resitor
